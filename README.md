@@ -11,7 +11,7 @@ Using OpenAPI Docs the Swagger files was displayed which provides information on
 ## Architectural Diagram
 
 Here is an architectural view of the project:
-![project architecture](./screenshots/project-architecture.png)
+![project architecture](./screenshots/architecture.png)
 
 ## Key Steps
 
