@@ -110,7 +110,7 @@ Here's a screenshot of the pipeline published
 
 ## Screen Recording
 
-[Here](https://youtu.be/iKsjQpxv7_0) is a screencast showing the project in action.
+[Here](https://youtu.be/nwne3xSCIMM) is a screencast showing the project in action.
 
 ## Standout Suggestions
 
